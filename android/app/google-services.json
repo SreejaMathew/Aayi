@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354696370145",
+    "project_id": "aayi-d9bb4",
+    "storage_bucket": "aayi-d9bb4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354696370145:android:dc07b174bce05a8574a4a0",
+        "android_client_info": {
+          "package_name": "com.example.aayi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB77orlxTJo_G0rEhlS1UDFEJfrVayOO5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
